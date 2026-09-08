@@ -1,0 +1,21 @@
+{
+  "routes": [
+    {
+      "urlPath": "/",
+      "entryName": "main",
+      "entryPath": "html/main/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false,
+      "redirect": "",
+      "responseHeader": [],
+      "extra": {
+        "entryName": "main",
+        "loadableManifest": ""
+      },
+      "isSpa": true,
+      "specialHeader": []
+    }
+  ]
+}
