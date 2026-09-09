@@ -14,11 +14,11 @@
         "/static/js/lib-react.e012a640fe.js",
         "/static/js/lib-router.3a85c36195.js",
         "/static/js/554.87309faf70.js",
-        "/static/css/main.5af51d650a.css",
+        "/static/css/main.009d52e76b.css",
         "/static/js/main.f16a9cf5ad.js"
       ],
       "referenceCssAssets": [
-        "/static/css/main.5af51d650a.css"
+        "/static/css/main.009d52e76b.css"
       ]
     },
     "page": {
@@ -30,7 +30,7 @@
       "assets": [
         "/static/js/lib-polyfill.999f9572ab.js",
         "/static/js/async/863.a9b867e1cc.js",
-        "/static/js/async/page.651d4b69f4.js"
+        "/static/js/async/page.f20f10937a.js"
       ],
       "referenceCssAssets": []
     }
