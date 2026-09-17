@@ -6,19 +6,19 @@
         493,
         783,
         535,
-        296,
+        219,
         889
       ],
       "assets": [
         "/static/js/lib-polyfill.3503ab549a.js",
         "/static/js/lib-react.aa114d9e56.js",
         "/static/js/lib-router.e97c876720.js",
-        "/static/js/296.2c5c92024a.js",
-        "/static/css/main.5bb02bc178.css",
-        "/static/js/main.b4a15bf4f4.js"
+        "/static/js/219.9235367735.js",
+        "/static/css/main.091a4dee4e.css",
+        "/static/js/main.4ca82a98f7.js"
       ],
       "referenceCssAssets": [
-        "/static/css/main.5bb02bc178.css"
+        "/static/css/main.091a4dee4e.css"
       ]
     },
     "page": {
