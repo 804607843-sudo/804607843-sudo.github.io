@@ -1,0 +1,6 @@
+version: 2
+routes:
+  - src: /**
+    dest:
+      type: csr
+      path: html/main/index.html

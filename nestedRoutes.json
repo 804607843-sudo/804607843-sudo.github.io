@@ -1,0 +1,1 @@
+{"main":[{"path":"/","children":[{"_component":"@_edenx_src/routes/page","index":true,"routeType":"page","id":"page","type":"nested","origin":"file-system"}],"isRoot":true,"origin":"file-system","_component":"@_edenx_src/routes/layout","id":"layout","type":"nested","routeType":"layout"}]}
