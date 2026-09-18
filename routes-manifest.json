@@ -13,24 +13,24 @@
         "/static/js/lib-polyfill.999f9572ab.js",
         "/static/js/lib-react.e012a640fe.js",
         "/static/js/lib-router.3a85c36195.js",
-        "/static/js/554.8b8fcbb649.js",
-        "/static/css/main.6c80c9e495.css",
+        "/static/js/554.aa9fb9b87a.js",
+        "/static/css/main.1b1d9f99a1.css",
         "/static/js/main.f16a9cf5ad.js"
       ],
       "referenceCssAssets": [
-        "/static/css/main.6c80c9e495.css"
+        "/static/css/main.1b1d9f99a1.css"
       ]
     },
     "page": {
       "chunkIds": [
         493,
-        726,
+        388,
         807
       ],
       "assets": [
         "/static/js/lib-polyfill.999f9572ab.js",
-        "/static/js/async/726.bdfef68b15.js",
-        "/static/js/async/page.bc4e2c84ac.js"
+        "/static/js/async/388.f938777e3b.js",
+        "/static/js/async/page.5d8fb556a8.js"
       ],
       "referenceCssAssets": []
     }
